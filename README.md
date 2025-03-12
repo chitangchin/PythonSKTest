@@ -279,4 +279,5 @@ The template also includes dependent resources required by all AI Hub resources:
 * [Storage Account](https://learn.microsoft.com/azure/storage/blobs/)
 * [Key Vault](https://learn.microsoft.com/azure/key-vault/general/)
 * [Application Insights](https://learn.microsoft.com/azure/azure-monitor/app/app-insights-overview) *(Optional, enabled by default)*
-* [Container Registry](https://learn.microsoft.com/azure/container-registry/) *(Optional, enabled by default)*
+* [Container Registry](https://learn.microsoft.com/azure/container-registry/) *(Optional, enabled by default)*#   T e s t i n g P y t h o n S e m a n t i c K e r n e l W i t h A z u r e A g e n t s  
+ 
